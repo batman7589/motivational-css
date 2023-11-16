@@ -1,0 +1,55 @@
+html{
+    background-color: blue;
+}
+div{
+    
+    width: 50%;
+margin-left: 25%;
+text-align: center;
+ margin-top:100px ;
+
+
+}
+img{
+    width: 100%;
+    border: 3px solid white;
+}
+h1{
+    text-transform: uppercase;
+    font-family: monospace;
+
+}
+p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+   
+}
+  #first{
+    
+    color: black;
+    
+  }
+     #second{
+        
+    color: black;
+    
+   
+    
+
+       }
+          #third{
+            
+            color: black;
+            
+          }
+            #fourth{
+                
+                   color: black;
+                   
+            }
+                #fivth{
+                   
+                    color: black;
+                    
+                }
